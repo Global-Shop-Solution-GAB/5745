@@ -1,0 +1,8 @@
+CheckNumber	AmountNoDecimal Date		Vendor
+0000127198	0000001139931	20191016	FAKE VENDOR                              
+  
+
+			
+tab delimited
+voids not included in the export file
+only pull numeric check numbers.
